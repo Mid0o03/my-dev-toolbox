@@ -1,4 +1,4 @@
-# [NOM DU PROJET EN MAJUSCULES]
+# [PROJECT NAME IN UPPERCASE]
 
 <div align="center">
   <img src="demo.gif" width="100%" alt="Project Demo Banner" />
@@ -14,39 +14,40 @@
 
 <br />
 
-## 🔗 Links
-* 🌍 **Live Demo:** [Lien vers ton site (Vercel/Netlify/GitHub Pages)]
-* 📂 **Source Code:** [Lien vers ce repo]
+## Links
+* **Live Demo:** [Link to your site (Vercel/Netlify/GitHub Pages)]
+* **Source Code:** [Link to this repo]
 
-## ⚡ About The Project
-[Une phrase simple expliquant le "Quoi"]. 
-Exemple : Une application web permettant de suivre ses finances personnelles en temps réel.
+## About The Project
+[A simple sentence explaining what the project does].
+Example: A web application that lets users track personal finances in real time.
 
-Ce projet m'a permis de travailler particulièrement sur [Concept JS clé, ex: la gestion de l'asynchrone avec Fetch].
+This project helped me improve especially on [key JavaScript concept, for example asynchronous handling with Fetch].
 
-## ✨ Key Features
-* 🎯 **Feature 1 :** [Description courte].
-* 🚀 **Feature 2 :** [Description courte].
-* 🎨 **Feature 3 :** [Description courte].
+## Key Features
+* **Feature 1:** [Short description].
+* **Feature 2:** [Short description].
+* **Feature 3:** [Short description].
 
-## 🛠️ Built With
-* **Front-end :** [Ex: JavaScript Vanilla, Chart.js, Tailwind CSS]
-* **API / Data :** [Ex: TMDB API, LocalStorage]
-* **Outils :** [Ex: Vite, Git, Vercel]
+## Built With
+* **Front-end:** [Example: Vanilla JavaScript, Chart.js, Tailwind CSS]
+* **API / Data:** [Example: TMDB API, LocalStorage]
+* **Tools:** [Example: Vite, Git, Vercel]
 
-## 🧠 What I Learned
-> Cette section est cruciale pour un portfolio. Explique un défi technique ici.
-* **Gestion du State :** Comment j'ai structuré mes données pour qu'elles soient persistantes.
-* **Optimisation :** Réduction du nombre d'appels API grâce au système de cache.
+## What I Learned
+> This section is crucial for a portfolio. Explain one technical challenge here.
+* **State Management:** How I structured data to keep it persistent.
+* **Optimization:** Reducing API calls through a caching system.
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
-# Cloner le projet
+# Clone the project
 git clone [https://github.com/TON_PSEUDO/NOM_DU_PROJET.git](https://github.com/TON_PSEUDO/NOM_DU_PROJET.git)
 
-# Accéder au dossier
+# Enter the project folder
 cd NOM_DU_PROJET
 
-# Lancer le projet (si static)
-# Ouvrir index.html ou utiliser Live Server
+# Run the project (if static)
+# Open index.html or use Live Server
+```
